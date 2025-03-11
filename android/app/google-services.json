@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671318724180",
+    "project_id": "loadcontrolproject",
+    "storage_bucket": "loadcontrolproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671318724180:android:f5524545593abf1333e7c1",
+        "android_client_info": {
+          "package_name": "com.example.load_control_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTEWEy8qiKc2FzdT3S1a2HIm3EGnEB8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
